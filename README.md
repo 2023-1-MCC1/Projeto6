@@ -8,7 +8,7 @@
 
 ## Trash TakeDown
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Felipe Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Carlos Eduardo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Rossi</a>.
+## Integrantes: <a href="https://www.linkedin.com/in/ifelipemartins">Felipe Martins</a>, <a href="https://www.linkedin.com/in/carlos-eduardo-pereira-bento-89536222a">Carlos Eduardo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Rossi</a>.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosseti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Jefferson Oliveira</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz</a>
 
