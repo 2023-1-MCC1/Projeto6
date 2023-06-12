@@ -20,7 +20,7 @@
 </p>
 
 
-Um jogo educacional, com um tema sobre reciclagem, onde buscamos enfatizar sobre a importância da reciclagem e também alertar que devemos reduzir nosso consumo, pois não importa o quanto reciclamos se houver uma mudança em nossos hábitos, não há como reciclar uma demanda tão alta como estamos tendo e aumentando a cada dia mais.
+Um jogo educacional, com um tema sobre reciclagem, onde buscamos enfatizar sobre a importância da reciclagem e também alertar que devemos reduzir nosso consumo, pois não importa o quanto reciclamos se não houver uma mudança em nossos hábitos, não há como reciclar uma demanda tão alta como estamos tendo e aumentando a cada dia mais.
 <br><br>
 Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 <br><br>
