@@ -6,7 +6,6 @@
 
 # Trash TakeDown
 
-## Trash TakeDown
 
 ## Integrantes: <a href="https://www.linkedin.com/in/ifelipemartins">Felipe Martins</a>, <a href="https://www.linkedin.com/in/carlos-eduardo-pereira-bento-89536222a">Carlos Eduardo</a>, <a href="">Lucas Rossi</a>.
 
