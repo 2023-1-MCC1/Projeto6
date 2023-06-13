@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/ifelipemartins">Felipe Martins</a>, <a href="https://www.linkedin.com/in/carlos-eduardo-pereira-bento-89536222a">Carlos Eduardo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Rossi</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosseti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Jefferson Oliveira</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosseti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino</a>, <a href="">Jefferson Oliveira</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano Onça</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz</a>
 
 ## Descrição
 
@@ -18,7 +18,6 @@
 
 
 ![game](https://github.com/2023-1-MCC1/Projeto6/assets/135656904/871e9158-b208-4844-b469-b6c214bc3507)
-<alt="NOME DO JOGO" border="0">
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> 
 </p>
 
