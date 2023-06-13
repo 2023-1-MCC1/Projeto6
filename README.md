@@ -15,17 +15,15 @@
 ## Descrição
 
 <p align="center">
-<![game](https://github.com/2023-1-MCC1/Projeto6/assets/135656904/871e9158-b208-4844-b469-b6c214bc3507)
-alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+
+
+![game](https://github.com/2023-1-MCC1/Projeto6/assets/135656904/871e9158-b208-4844-b469-b6c214bc3507)
+<alt="NOME DO JOGO" border="0">
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> 
 </p>
 
 
 Um jogo educacional, com um tema sobre reciclagem, onde buscamos enfatizar sobre a importância da reciclagem e também alertar que devemos reduzir nosso consumo, pois não importa o quanto reciclamos se não houver uma mudança em nossos hábitos, não há como reciclar uma demanda tão alta como estamos tendo e aumentando a cada dia mais.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -37,8 +35,6 @@ May the force be with you!
   &emsp;|Documentação.docx<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
@@ -75,10 +71,6 @@ Coloque código do prompt de comnando se for necessário
 Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>HTML:</b>
 
 Não há instalação!
@@ -86,17 +78,9 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 -<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
 
 ## 🗃 Histórico de lançamentos
 
