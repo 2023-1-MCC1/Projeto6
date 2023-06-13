@@ -8,9 +8,9 @@
 
 ## Trash TakeDown
 
-## Integrantes: <a href="https://www.linkedin.com/in/ifelipemartins">Felipe Martins</a>, <a href="https://www.linkedin.com/in/carlos-eduardo-pereira-bento-89536222a">Carlos Eduardo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Rossi</a>.
+## Integrantes: <a href="https://www.linkedin.com/in/ifelipemartins">Felipe Martins</a>, <a href="https://www.linkedin.com/in/carlos-eduardo-pereira-bento-89536222a">Carlos Eduardo</a>, <a href="">Lucas Rossi</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosseti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino</a>, <a href="">Jefferson Oliveira</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano Onça</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosseti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino</a>, <a href="https://www.linkedin.com/in/jefferson-silva-2193b323/?originalSubdomain=br">Jefferson Oliveira</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano Onça</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz</a>
 
 ## Descrição
 
