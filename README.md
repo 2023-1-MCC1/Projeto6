@@ -43,7 +43,7 @@ Um jogo educacional, com um tema sobre reciclagem, onde buscamos enfatizar sobre
  
 <b>Windows:</b>
 
-Não há instalação! Apenas executável!
+Não há instalação! Apenas faça o download do executável!
 <a href="https://edufecap-my.sharepoint.com/:f:/g/personal/carlos_bento_edu_fecap_br/Eq2andFQrtVBh-8jTKEuZHMBCTWMOAfQFitIe40U5Yq-8w?e=he4JhK">executável</a>
 
 ## 💻 Configuração para Desenvolvimento
